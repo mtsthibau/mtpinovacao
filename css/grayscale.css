@@ -262,7 +262,7 @@
   background: rgba(255, 255, 255, 0.1);
   border-radius: 100%;
   line-height: 3rem;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgb(100, 161, 157)
 }
 
 .contact-section .social a:hover {
@@ -301,4 +301,9 @@ a:focus, a:hover {
 
 footer {
   padding: 5rem 0;
+}
+
+.green{
+  color: #64a19d !important;
+
 }
